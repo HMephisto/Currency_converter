@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="Status">
+        <item>ars</item>
+        <item>aud</item>
+        <item>bhd</item>
+        <item>bwp</item>
+        <item>brl</item>
+        <item>bnd</item>
+        <item>bgn</item>
+        <item>cad</item>
+        <item>clp</item>
+        <item>cny</item>
+        <item>cop</item>
+        <item>hrk</item>
+        <item>czk</item>
+        <item>dkk</item>
+        <item>eur</item>
+        <item>hkd</item>
+        <item>huf</item>
+        <item>isk</item>
+        <item>inr</item>
+        <item>idr</item>
+        <item>irr</item>
+        <item>ils</item>
+        <item>jpy</item>
+        <item>sgd</item>
+        <item>usd</item>
+    </string-array>
+    <string-array name="code">
+        <item>AR</item>
+        <item>AU</item>
+        <item>BH</item>
+        <item>BW</item>
+        <item>BR</item>
+        <item>BN</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CL</item>
+        <item>CN</item>
+        <item>CO</item>
+        <item>HR</item>
+        <item>CZ</item>
+        <item>DK</item>
+        <item>EU</item>
+        <item>HK</item>
+        <item>HU</item>
+        <item>IS</item>
+        <item>IN</item>
+        <item>ID</item>
+        <item>IR</item>
+        <item>IL</item>
+        <item>JP</item>
+        <item>SG</item>
+        <item>US</item>
+    </string-array>
+</resources>
